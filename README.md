@@ -8,7 +8,7 @@
 
 
 
-<img src="assets/cc\_triple\_dagger.png" width="180" alt="Charred Crow Logo">
+<img src="assets/cc_triple_dagger.png" width="180" alt="Charred Crow Logo">
 
 
 
